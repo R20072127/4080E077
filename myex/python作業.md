@@ -72,6 +72,7 @@ for number in numbers:
 　　my_numbers.append(number)
 
 print(my_numbers)
+
 答案是:[21, 35, 1, 7, 3, 9]
 ```
 ##### 程式設計題:完成等差數列的總和計算:1+5+9+13+ ...+81
