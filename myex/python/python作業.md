@@ -90,8 +90,8 @@ print(number) #結果
 ##### 程式設計題:完成等差數列的積和計算:1乘5乘9乘13乘 ...乘33
 ```
 number = 1 #number = 1
-for n in range(1,34,4): #For迴圈(利用今天說的=range(起始值，終止值，間隔值)把等差算出來
-   number *= n #題目說要加總所以我們用number開頭的數字在加上後面的等差數)
+for n in range(1,34,4): 
+   number *= 1 
 print(number) #結果
  答案是:4996616625
 ```
