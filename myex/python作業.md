@@ -72,6 +72,7 @@ for number in numbers:
 　　my_numbers.append(number)
 
 print(my_numbers)
+```
 
 答案是:[21, 35, 1, 7, 3, 9]
 ```
