@@ -91,7 +91,7 @@ print(number) #結果
 ```
 number = 1 #number = 1
 for n in range(1,34,4): 
-   number *= 1 
+   number *= i 
 print(number) #結果
 ```
 ```
