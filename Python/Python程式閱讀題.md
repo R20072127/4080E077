@@ -36,7 +36,7 @@ z.imag
 
 import cmath
 cmath.sqrt(-1)
-```
+答案 : 1j
 ```
 # 字串
 ```
