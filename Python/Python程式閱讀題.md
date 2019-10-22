@@ -1,3 +1,40 @@
+# 數值計算
+```
+底下程式執行後, z之值為何?
+x = 3
+y = 5
+z = (x + y) / 2
+```
+
+```
+底下程式執行後, 其值為何?
+3 / 2
+3 // 2
+-1 // 2
+
+51 + 122 - 33*42-(44*3)/5
+3000000000*3.0
+3000000000*3
+
+int(200.2)
+int(2e2)
+float(200)
+```
+
+### 複數運算
+```
+3 + 2j - (4 + 4j)
+1j*1j
+(1 + 2j) * (3 + 4j)
+
+z = 3+5j
+z.real
+z.imag
+
+
+import cmath
+cmath.sqrt(-1)
+```
 # 字串
 
 ```
@@ -34,6 +71,21 @@ TO BE OR NOT TO BE: THAT IS THE QUESTION:
 to be or not to be: that is the question: 
 To be or not to be: that is the question: 
 4
+```
+```
+底下各行輸出為何?
+x = "Hello"
+x[0]       答案:'H'
+x[5]       答案:不存在
+x[-1]      答案:'o'
+x[1:]      答案:'ello'
+x[1:-1]    答案:'ell'
+```
+```
+底下輸出為何?
+x = "Goodbye\n"
+x = x[:-1]
+x
 ```
 ### while loop
 ```
