@@ -199,6 +199,8 @@ tracert www.google.com.tw
  28     *        *        *     要求等候逾時。
  29     *        *        *     要求等候逾時。
  30     *        *        *     要求等候逾時。
+ 
+追蹤完成。
 ```
 ### 作業:tracert www.ksu.edu.tw
 ```
