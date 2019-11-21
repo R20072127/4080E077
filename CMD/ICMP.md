@@ -147,7 +147,7 @@ tracert| Traceroute
 https://support.microsoft.com/zh-tw/help/314868/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows
 ```
 ```
-tracert www.pchome.com.tw
+tracert www.google.com.tw
 
 在上限 30 個躍點上 Tracing route to 11.1.0.1 over a maximum of 30 hops
 追蹤 www.pchome.com.tw [210.59.230.39] 的路由:
