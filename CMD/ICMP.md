@@ -220,14 +220,6 @@ arp -a
 ```
 ### IP
 ```
-
-```
-### ARP
-```
-Address Resolution Protocol (ARP) - Explained with example | Computer network | TechTerms
-https://www.youtube.com/watch?v=EC1slXCT3bg
-
-MAC Address
 ```
 ### ICMP
 ```
