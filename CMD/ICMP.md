@@ -326,7 +326,18 @@ tracert www.google.com.tw
  
 追蹤完成。
 ```
+```
 ### 作業:tracert www.ksu.edu.tw
+```
+# Transport層協定:TCP(可靠的reliable) vs UDP (不可靠的unreliable)
+```
+何謂(可靠的reliable) vs (不可靠的unreliable)?
+都(不可靠的unreliable)了,為何要用??
+如何達到(可靠的reliable)?<----封包格式的設計
+```
+```
+TCP vs UDP Comparison
+https://www.youtube.com/watch?v=uwoD5YsGACg
 ```
 C:\Users\KSUIE>tracert www.ksu.edu.tw
 
@@ -346,7 +357,7 @@ TCP vs UDP Comparison
 https://www.youtube.com/watch?v=uwoD5YsGACg
 ```
 
-
+# Application 層常用協定
 ### SSL, TLS, HTTP, HTTPS 
 ```
 SSL, TLS, HTTP, HTTPS Explained
