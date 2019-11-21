@@ -79,8 +79,8 @@ IEEE 802.12：需求優先級（Demand priority）
 IEEE 802.13：（未使用）
 IEEE 802.14：電纜數據機（Cable modems）
 IEEE 802.15：無線個人區域網路（Wireless PAN）
-   IEEE 802.15.1：無線個人區域網路絡（WPAN, Wireless Personal Area Network）
-   IEEE 802.15.4：低速無線個人區域網路絡（LR-WPAN, Low Rate Wireless Personal Area Network）
+IEEE 802.15.1：無線個人區域網路絡（WPAN, Wireless Personal Area Network）
+IEEE 802.15.4：低速無線個人區域網路絡（LR-WPAN, Low Rate Wireless Personal Area Network）
 IEEE 802.16：寬頻無線接入（Broadband Wireless Access）
 IEEE 802.17：彈性封包環傳輸技術（Resilient packet ring）
 IEEE 802.18：無線電管制技術（Radio Regulatory TAG）
