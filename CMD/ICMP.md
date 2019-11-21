@@ -112,6 +112,10 @@ MAC Address
 ```
 arp -a
 ```
+### IP
+```
+
+```
 ### ARP
 ```
 Address Resolution Protocol (ARP) - Explained with example | Computer network | TechTerms
