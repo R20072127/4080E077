@@ -65,8 +65,8 @@ IEEE 802.2：邏輯鏈路控制（Logical link control）
 
 區域網路用的協定:
 [超級重要]IEEE 802.3：乙太網路（Ethernet）
-IEEE 802.4：權杖匯流排（Token bus）
-IEEE 802.5：權杖環（Token-Ring）
+[超級重要]IEEE 802.4：權杖匯流排（Token bus）
+[超級重要]IEEE 802.5：權杖環（Token-Ring）
 
 
 IEEE 802.6：城域網（MAN, Metropolitan Area Network）
