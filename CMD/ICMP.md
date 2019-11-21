@@ -326,9 +326,7 @@ tracert www.google.com.tw
  
 追蹤完成。
 ```
-```
 ### 作業:tracert www.ksu.edu.tw
-```
 ```
 C:\Users\KSUIE>tracert www.ksu.edu.tw
 
@@ -352,14 +350,15 @@ TCP vs UDP Comparison
 https://www.youtube.com/watch?v=uwoD5YsGACg
 ```
 # Application 層常用協定
+```
 ### SSL, TLS, HTTP, HTTPS 
 ```
 SSL, TLS, HTTP, HTTPS Explained
 https://www.youtube.com/watch?v=hExRDVZHhig
 ```
-
 ###  Proxy Server
 ```
+
 What is a Proxy Server?
 https://www.youtube.com/watch?v=5cPIukqXe5w
 ```
